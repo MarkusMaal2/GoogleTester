@@ -1,5 +1,5 @@
 # GoogleTester
-Seleniumi testid (https://google.com)[Google] veebilehe jaoks. Teste tehakse Firefox brauseri abil.
+Seleniumi testid [Google](https://google.com) veebilehe jaoks. Teste tehakse Firefox brauseri abil.
 
 Läbitakse järgmised testid:
 1. Nõustu küpsistega - kontrollitakse, kas aken küpsiste kohta on nähtaval, klõpsatakse "Nõustu", kui jah
